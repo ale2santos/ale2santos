@@ -4,8 +4,8 @@
 
 Comecei na bancada, montando e testando computadores, e cheguei à coordenação de operações de TI. Trabalho com monitoramento, gestão de incidentes e mudanças, deploy e desenvolvimento de pessoas.
 
-- **Portfólio:** [ale2santos.github.io](https://ale2santos.github.io)
-- **Mentoria às quartas** (carreira em TI, operações e liderança): [temas, regras e agendamento](https://ale2santos.github.io/#mentoria)
+- **Portfólio:** [https://alexandredossantos.com.br](https://alexandredossantos.com.br/)
+- **Mentoria às quartas** (carreira em TI, operações e liderança): [temas, regras e agendamento](https://alexandredossantos.com.br/#mentoria)
 - **LinkedIn:** [linkedin.com/in/santosale](https://www.linkedin.com/in/santosale)
 - **Palestra:** O Alerta Tocou às 3h da Manhã, sobre liderança, burnout e cultura blameless (KCD São Paulo 2026)
 
